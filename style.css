@@ -40,7 +40,9 @@ h4{
   bottom: 0;
   width: 100%;
   padding: 10px;
-  background-color: #F0F0F0;
+/*   background-color: #F0F0F0; */
+  background-image: linear-gradient(to right, #68ffc0 , #00f3ff);
+
 }
 .user-message:before{
   content: "\f007  ";
